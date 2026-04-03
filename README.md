@@ -2,7 +2,7 @@
 
 ### Berikut adalah langkah - langkah setup flutter di dalam Linux Mint(Ubuntu)
 > [!WARNING]
-> Ini adalah penginstalan yang dikhususkan pada distro linux, anda bisa cari tutorial atau menggunakan AI apabila anda menggunakan distro selain ini. 
+> Ini adalah penginstalan yang dikhususkan pada distro linux mint anda bisa cari tutorial atau menggunakan AI apabila anda menggunakan distro selain ini. 
 
 ---
 > 1. Menginstal Dependensi
